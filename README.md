@@ -1,6 +1,6 @@
 # Mode_Changer
 
-****WARNING ONLY FOR LINUX SYSTEMS****
+***ONLY FOR LINUX SYSTEMS***
 
 Windows version will come out soon...
 
