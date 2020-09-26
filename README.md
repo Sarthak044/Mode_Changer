@@ -4,7 +4,7 @@
 
 Windows version will come out soon...
 
-Simple as the ame suggests You can change the modes of your wireless adapter
+Simple as the name suggests You can change the modes of your wireless adapter
 Just run the file 
 
 Usage:-
