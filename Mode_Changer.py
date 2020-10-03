@@ -1,7 +1,7 @@
 import subprocess
 from pyfiglet import Figlet
 
-custom_fig = Figlet(font='future_3')
+custom_fig = Figlet(font='greek')
 print(custom_fig.renderText('ProGod04'))
 
 def process():
