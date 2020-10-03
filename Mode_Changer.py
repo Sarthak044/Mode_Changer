@@ -1,4 +1,8 @@
 import subprocess
+from pyfiglet import Figlet
+
+custom_fig = Figlet(font='future_3')
+print(custom_fig.renderText('ProGod04'))
 
 def process():
     #Selecting the mode
