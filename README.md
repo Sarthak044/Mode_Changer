@@ -13,5 +13,4 @@ python3 Mode_Changer.py
 follow the instructions
 DONE!!
 
-
-ENJOY!
+Happy Hacking!!
