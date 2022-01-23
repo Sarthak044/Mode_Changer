@@ -8,7 +8,9 @@ Simple as the name suggests You can change the modes of your wireless adapter
 Just run the file 
 
 Usage:-
-python3 Mode_Changer.py
+<br>python3 Mode_Changer.py</br>
+Usage for go:-
+go run main.go
 
 follow the instructions
 DONE!!
