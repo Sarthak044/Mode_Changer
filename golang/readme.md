@@ -1,3 +1,3 @@
-# Still in Beta
+# Lets GO!
 
-For go Lovers
+For go Lovers. Ready to run on linux devices. Windows version soon.
